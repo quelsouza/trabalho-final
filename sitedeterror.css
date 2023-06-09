@@ -1,0 +1,56 @@
+body{
+	margin: 150px;
+	margin-top: -40px;
+	margin-bottom: -40px;
+	padding: 140px;
+	background-image: url("img/fundosangue.jpg");
+	background-size: 100%;
+}
+
+.corpoSite{
+	background-color: white;
+	background-opacity: 0.6px;
+
+}
+
+.divImagem{
+	text-align: center;
+}
+
+img{
+  width: 80%;
+  height: auto;
+}
+
+p, h1, h2, h3, h4{
+	font-family: Arial;
+}
+
+p{
+	color: #595959;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+h1{
+	font-size: 40px;
+}
+
+h2{
+	font-size: 27px;
+}
+
+h3{
+	font-size: 24px;
+}
+
+h4{
+	text-align: center;
+	color: #7d7d7d;
+	margin-top: 10px;
+	font-family: Monaco;
+}
+
+.autora{
+	font-size: 18px;
+}
